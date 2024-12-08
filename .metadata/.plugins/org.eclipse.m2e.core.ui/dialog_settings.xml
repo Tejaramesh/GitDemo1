@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="SeleniumJava"/>
+			<item value="Introduction"/>
+			<item value="Testproject"/>
+			<item value="sampleproject"/>
+			<item value="FirstProject"/>
+			<item value="PracticeProject"/>
+			<item value="Practice Project"/>
+			<item value="Demo_project"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SeleniumJava"/>
+			<item value="Selenium-java"/>
+			<item value="Testproject"/>
+			<item value="sampleproject"/>
+			<item value="FirstProject"/>
+			<item value="PracticeProject"/>
+			<item value="Practice Project"/>
+			<item value="Demo_project"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.EditDependencyDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="720"/>
+		<item key="y" value="215"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\pc\Downloads\Automation_RegistrationScripts-main\src\test\java"/>
+			<item value="C:\Users\pc\GitDemo"/>
+			<item value="C:\Users\pc\Mavenjava"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\pc\eclipse-workspace\APIFramework\src\test\java\resources\APIresources.java"/>
+			<item value="C:\Users\pc\eclipse-workspace\Automation_script\src\test\java\Features\Login.feature"/>
+			<item value="C:\Users\pc\eclipse-workspace\Automation12\src\test\java\Features\Homepage.feature"/>
+			<item value="C:\Users\pc\eclipse-workspace\Testproject\src\Demo\EcommerceAPITest.java"/>
+			<item value="C:\RestAPI Course documents"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="Framework.Registrations"/>
+			<item value="Framework.APIregFramework"/>
+		</list>
+		<list key="groupId">
+			<item value="Framework"/>
+		</list>
+		<list key="artifactId">
+			<item value="Registrations"/>
+			<item value="APIregFramework"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

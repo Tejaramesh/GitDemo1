@@ -1,0 +1,17 @@
+package selint;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+
+public class Firstscript {
+	
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Driver\\chromedriver-win64\\chromerdriver.exe");
+		
+		
+
+		
+	}
+
+}

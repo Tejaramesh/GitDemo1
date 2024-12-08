@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Youtubetest-Selenium-java-wd-junit.java&apos; to &apos;Javaconcepts&apos;" description="Move &apos;Youtubetest-Selenium-java-wd-junit.java&apos; to &apos;Javaconcepts&apos;" destination="/Javaconcepts" element1="/SeleniumJava/Youtubetest-Selenium-java-wd-junit.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1724514810839" updateReferences="true"/>
+</session>
